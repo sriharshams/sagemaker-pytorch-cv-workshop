@@ -3,9 +3,9 @@
 Instructions for the following labs are in the notebooks. Make sure you see the "Getting started" section below
 
 - Prereq - Set up Studio (see instructions below)
-- Lab 1 - https://github.com/aws/amazon-sagemaker-examples/tree/master/sagemaker-python-sdk/tensorboard_keras
-- Lab 2 - https://github.com/aws/amazon-sagemaker-examples/blob/master/sagemaker-debugger/tensorflow_builtin_rule/tf-mnist-builtin-rule.ipynb
-- Lab 3 - https://github.com/aws/amazon-sagemaker-examples/tree/master/training/distributed_training/tensorflow/data_parallel/mnist
+- Lab 1 - https://github.com/aws/amazon-sagemaker-examples/blob/master/sagemaker-python-sdk/pytorch_mnist/pytorch_mnist.ipynb
+- Lab 2 - https://github.com/aws/amazon-sagemaker-examples/blob/master/sagemaker-debugger/pytorch_model_debugging/pytorch_script_change_smdebug.ipynb
+- Lab 3 - https://github.com/aws/amazon-sagemaker-examples/blob/master/training/distributed_training/pytorch/data_parallel/mnist/
 
 > Note that Labs 1 through 3 are notebooks that are found in the main SageMaker example repository, and instructions to download and use these labs are included at the end of these instructions
 
@@ -100,9 +100,9 @@ git clone https://github.com/aws/amazon-sagemaker-examples.git
 ### Workshop labs structure 
 (or, where to find the right labs...)
 
-- Lab 1 - sagemaker-python-sdk/tensorboard_keras
-- Lab 2 - sagemaker-debugger/tensorflow_builtin_rule
-- Lab 3 - training/distributed_training/tensorflow/data_parallel/mnist
+- Lab 1 - sagemaker-python-sdk/pytorch_mnist
+- Lab 2 - sagemaker-debugger/pytorch_model_debugging
+- Lab 3 - training/distributed_training/pytorch/data_parallel/mnist
 
 **Find and run the noteook (.ipynb file) in each of these folders**
 
